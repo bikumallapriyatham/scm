@@ -6,7 +6,6 @@ while [ $valid ]
 do
 echo $count
 if [ $count -eq 5 ];
-#this is my program
 then
 break
 fi
