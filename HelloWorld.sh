@@ -1,4 +1,5 @@
 #!/bin/bash
+#this is a simple program
 valid=true
 count=1
 while [ $valid ]
